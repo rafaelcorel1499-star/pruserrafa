@@ -1,0 +1,5 @@
+PySide6-Essentials>=6.6,<7
+pyserial>=3.5
+edge-tts>=7.0
+pyttsx3>=2.90
+cryptography>=42
